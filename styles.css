@@ -1,11 +1,12 @@
 /* your code */
 th{
-	background-color:cadetblue;
+	background-color:#007aff;
 }
 table{
-	border:2px solid;
+	border:0px solid;
 	width:100%;
-	border-radius:10px;
+	border-radius:13px;
+	overflow:hidden;
 }
 tr:nth-child(even) {
   background-color: #dddddd;
