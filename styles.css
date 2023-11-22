@@ -1,4 +1,12 @@
 /* your code */
 th{
-	background-color:lightblue;
+	background-color:cadetblue;
+}
+table{
+	border:2px solid;
+	width:100%;
+	border-radius:10px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
